@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-title = "Hugo Theme Fuji"
+baseURL = "https://cronytips.github.io/"
+title = "Crony Tips"
 
 theme = "fuji"
 hasCJKLanguage = true
@@ -23,8 +23,8 @@ paginate = 10
   post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
 
 [params]
-  author = "DSRKafuU" # You can also set author in post front matter individually
-  subTitle = "A minimal Hugo theme."
+  author = "Crony Akatsuki" # You can also set author in post front matter individually
+  subTitle = "Anime, manga, liht-novel, games and linux lunatics blog"
 
   # Use CloudFlare Workers to accelerate the Google Analytics
   # If you are using this please comment the googleAnalytics above
@@ -38,11 +38,11 @@ paginate = 10
 
   # Word counter and read time indicator in post metadata
   showWordCounter = true
-  showReadTime = false
+  showReadTime = true
 
   # License at the end of each post
-  showLicense = true
-  showToc = true
+  showLicense = false
+  showToc = false
 
   # Open Graph & Twitter Card variables
   # You can also set description and images in post front matter individually
@@ -116,20 +116,16 @@ paginate = 10
     name = "Search"
     url = "/search/"
     weight = 4
-  [[menu.nav]]
-    name = "RSS"
-    url = "/index.xml"
-    weight = 5
 
   [[menu.link]]
     name = "GitHub"
-    url = "https://github.com/amzrk2"
+    url = "https://github.com/CroLinuxGamer"
     weight = 1
   [[menu.link]]
-    name = "Twitter"
-    url = "https://twitter.com/amzrk2"
+    name = "Instagram"
+    url = "https://www.instagram.com/cro.otaku/"
     weight = 2
   [[menu.link]]
-    name = "bilibili"
-    url = "https://space.bilibili.com/19767474"
+    name = "reddit"
+    url = "https://www.reddit.com/user/CronyAkatskuki"
     weight = 3
