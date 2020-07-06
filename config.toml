@@ -24,7 +24,7 @@ paginate = 10
 
 [params]
   author = "Crony Akatsuki" # You can also set author in post front matter individually
-  subTitle = "Anime, manga, liht-novel, games and linux lunatics blog"
+  subTitle = "Anime, manga, light-novel, games and linux lunatics blog"
 
   # Use CloudFlare Workers to accelerate the Google Analytics
   # If you are using this please comment the googleAnalytics above
