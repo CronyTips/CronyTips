@@ -65,7 +65,7 @@ paginate = 10
   # utterancesIssueTerm = "pathname"
 
   # Disqus, see: https://disqus.com/admin/install/platforms/universalcode/
-  # disqusShortname = "*********"
+  disqusShortname = "crony-tips"
   # Also use DisqusJS for accessing from Mainland China, see: https://github.com/SukkaW/DisqusJS
   # If you want to set multiple api key, see theme's README for more details
   # disqusJSApi = "https://*********/"
