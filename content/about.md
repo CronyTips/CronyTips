@@ -29,7 +29,7 @@ Here I will write about manga that I readed that month and rank them and do reco
 
 You will also find me make tutorials on how to read manga on android and linux.
 
-# light-novel
+# light-novels
 
 Here I will also write about light-novels that I readed trought the month and will probably rank themHere I will also write about light-novels that  I readed trought the month and will probably rank them.
 
@@ -43,4 +43,4 @@ Here you will se me talk my opinions about gaming industry now and hear my runts
 
 This will probably be most my posts about because I really love linux and I have been linux user for about 3 years now.
 
-My installation is and manjaro-architect cli installation form which one I installed xserver with the rest of programs that I use. If you wanna look at my dotfile you have my github link on the right.
+My installation is and manjaro-architect cli installation form which one I installed xserver with the rest of programs that I use. If you wanna look at my dotfiles you have my github link on the right.
