@@ -129,3 +129,7 @@ paginate = 10
     name = "reddit"
     url = "https://www.reddit.com/user/CronyAkatskuki"
     weight = 3
+  [[menu.link]]
+    name = "email"
+    url = "mailto:cronyakatskuki@gmail.com"
+    weight = 4
