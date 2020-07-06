@@ -1,6 +1,6 @@
 +++
 title = "Archives"
-description = ""
+description = "Place where every post is saved"
 +++
 
 You can change archives page details above.

@@ -1,24 +1,46 @@
 +++
-title = "About Hugo"
-description = "Hugo, the world’s fastest framework for building websites."
+title = "About Crony Akatsuki"
+description = "A blog froam a very special lunaic."
 date = 2020-04-11T19:15:32+08:00
 noLicense = true
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hi  everyone I'm Crony Akatsuki the creator of Crony Tips. You must be asking yourself what is the point of this blog.
 
-Hugo makes use of a variety of open source projects including:
+The point of this site is that it is just a place where I can write about stuff that I like and make tips on how to do it so that somebody else who loves atleast something like me can maybe find help on my site.
 
--   https://github.com/yuin/goldmark
--   https://github.com/alecthomas/chroma
--   https://github.com/muesli/smartcrop
--   https://github.com/spf13/cobra
--   https://github.com/spf13/viper
+So what you will find on my site.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+- [anime](#anime)
+- [manga](#manga)
+- [light-novels](#lightnovels)
+- [games](#games)
+- [linux](#linux)
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+# anime
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+You will find me listing anime that I like and I will probarly make a post about what anime I watched that month and make a ranking out of them or something like that.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+I will also make tutorials how to watch anime on android and from linux `terminal`. Yes you can even do that in linux.
+
+# manga
+
+Here I will write about manga that I readed that month and rank them and do recommendations. It will be very simiral to what I will do on anime section.
+
+You will also find me make tutorials on how to read manga on android and linux.
+
+# light-novel
+
+Here I will also write about light-novels that I readed trought the month and will probably rank themHere I will also write about light-novels that  I readed trought the month and will probably rank them.
+
+Maybe I will give you sites from which I download light novels. Maybe ;)
+
+# games
+
+Here you will se me talk my opinions about gaming industry now and hear my runts about how much I hate new games.
+
+# linux
+
+This will probably be most my posts about because I really love linux and I have been linux user for about 3 years now.
+
+My installation is and manjaro-architect cli installation form which one I installed xserver with the rest of programs that I use. If you wanna look at my dotfile you have my github link on the right.
