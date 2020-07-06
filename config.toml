@@ -14,7 +14,7 @@ defaultContentLanguage = "en"  # For HTML page, now support: en, zh-hans, zh-han
 summaryLength = 100 # Custom summary length, add <!--more--> in post file to custom split point
 paginate = 10
 
-# googleAnalytics = "UA-000000000-0" # Set your Google Analytics UA here
+googleAnalytics = "UA-171752567-1" # Set your Google Analytics UA here
 
 [outputs]
   home = ["html", "rss", "json"]
@@ -34,7 +34,7 @@ paginate = 10
 
   # Google AdSense
   # The AdSense code will be inserted between the head tags of your site.
-  # googleAdsense = "0000000000000000"
+  googleAdsense = "ca-pub-9546162568577568"
 
   # Word counter and read time indicator in post metadata
   showWordCounter = true
