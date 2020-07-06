@@ -1,3 +1,7 @@
 [submodule "themes/fuji"]
 	path = themes/fuji
 	url = https://github.com/amzrk2/hugo-theme-fuji.git
+[submodule "public"]
+	path = public
+	url = https://github.com/CronyTips/cronytips.github.io.git
+	branch = master
