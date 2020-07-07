@@ -8,7 +8,7 @@ tags:
 draft: false
 ---
 
-In this post I will explain my reason's for using and loving linux.
+In this post I will explain my reason's for using and loving linux. And they also serve as reasons as to `why you should use linux`.
 
 <!--more-->
 
