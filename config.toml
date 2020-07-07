@@ -47,7 +47,7 @@ googleAnalytics = "UA-171752567-1" # Set your Google Analytics UA here
 
   # Open Graph & Twitter Card variables
   # You can also set description and images in post front matter individually
-  description = "A minimal Hugo theme with nice theme color."
+  description = "A certain lunatics blog about anime, manga, light novels, games and linux"
   images = ["img/og.png"] # This will use the image called og.png in static/img folder
 
   # Posts shown in homepage
