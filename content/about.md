@@ -1,8 +1,8 @@
 +++
 title = "About Crony Akatsuki"
-description = "A blog froam a very special lunaic."
+description = "A blog from a very special lunaic."
 date = 2020-07-06T19:15:32+08:00
-noLicense = true
+noLicense = false
 +++
 
 Hi  everyone I'm Crony Akatsuki the creator of Crony Tips. You must be asking yourself what is the point of this blog.

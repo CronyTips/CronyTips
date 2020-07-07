@@ -14,7 +14,7 @@ cd public
 printf "\033[0;32mUpdating website repo...\033[0m\n"
 
 # Add changes to git.
-git add *
+git add .
 
 # Commit changes.
 msg="rebuilding site $(date)"
