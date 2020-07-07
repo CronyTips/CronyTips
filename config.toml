@@ -1,5 +1,6 @@
 baseURL = "https://cronytips.github.io/"
 title = "Crony Tips"
+canonifyURLs = true
 
 theme = "fuji"
 hasCJKLanguage = true
@@ -130,7 +131,10 @@ googleAnalytics = "UA-171752567-1" # Set your Google Analytics UA here
     url = "https://www.reddit.com/user/CronyAkatskuki"
     weight = 3
   [[menu.link]]
-    identifer = "email"
     name = "email"
     url = "mailto:cronyakatskuki@gmail.com"
     weight = 4
+  [[menu.link]]
+    name = "twitter"
+    url = "https://twitter.com/CronyAkatsuki"
+    weight = 5
