@@ -2,7 +2,7 @@
 title: "Why do I use Linux"
 type: post
 date: 2020-07-07T15:17:26+02:00
-url: /2020//why-do-i-use-linux/
+url: /2020/why-do-i-use-linux/
 tags:
   - linux
 draft: false

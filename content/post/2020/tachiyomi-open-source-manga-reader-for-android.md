@@ -2,12 +2,12 @@
 title: "Tachiyomi: open-source manga reader for android"
 type: post
 date: 2020-07-08T13:10:02+02:00
-url: /tachiyomi-open-source-manga-reader-for-android/
+url: /2020/tachiyomi-open-source-manga-reader-for-android/
 tags:
   - manga
   - android
   - open-source
-draft: true
+draft: false
 ---
 
 In this post I will write about a open-source manga reader named Tachiyomi.
