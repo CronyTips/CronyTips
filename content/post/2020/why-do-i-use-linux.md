@@ -12,6 +12,8 @@ In this post I will explain my reason's for using and loving linux. And they als
 
 <!--more-->
 
+---
+
 # 1. It's free
 
 [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html) is a free operating system. If I wan't to install linux on my machine I don't need to spend 100$ on a `license` just to do a installation or do a clean install. This is also one of the reasons that I distro hopped for about 2 years until I settled down on [manjaro](https://manjaro.org/) for about 1 year.
@@ -46,6 +48,6 @@ You can customize your GNU/Linux desktop to be exactly what you wan't. Like that
 
 {{< img-lazy  "row" "Desktop" "https://raw.githubusercontent.com/CroLinuxGamer/Photos/master/desktop.png" >}}
 
-<!--more-->
+---
 
 All in all my opinion of GNU/Linux will probably never change because it is just what I need of a desktop OS. But still everyone has their opinion and that is hard to change.
