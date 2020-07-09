@@ -16,21 +16,21 @@ In this post I will explain my reason's for using and loving linux. And they als
 
 # 1. It's free
 
-[GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html) is a free operating system. If I wan't to install linux on my machine I don't need to spend 100$ on a `license` just to do a installation or do a clean install. This is also one of the reasons that I distro hopped for about 2 years until I settled down on [manjaro](https://manjaro.org/) for about 1 year.
+[GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html) is a free operating system. If I want to install linux on my machine I don't need to spend 100$ on a `license` just to do a installation or do a clean install. This is also one of the reasons that I distro hopped for about 2 years until I settled down on [manjaro](https://manjaro.org/) for about 1 year.
 
 # 2. It's open-source
 
-GNU/Linux is open source which means that if you wan't you can look at the code to check if somebody is spying on you. Yea I'm looking at you `Microsoft`. You can also if you have experience in programming try and help in development of the Linux [kernel](https://www.kernel.org/) or `software`.
+GNU/Linux is open source which means that if you want you can look at the code to check if somebody is spying on you. Yea I'm looking at you `Microsoft`. You can also if you have experience in programming try and help in development of the Linux [kernel](https://www.kernel.org/) or `software`.
 
 # 3. Security
 
-Now to connect to my last point GNU/Linux is much more [secure than windows](https://www.computerworld.com/article/3252823/why-linux-is-better-than-windows-or-macos-for-security.html) because updates are comming faster and the code is always changing. It is also because GNU/Linux doesn't have that much usage still but that will probably change soon, maybe even sooner that we think.
+Now to connect to my last point GNU/Linux is much more [secure than windows](https://www.computerworld.com/article/3252823/why-linux-is-better-than-windows-or-macos-for-security.html) because updates are coming faster and the code is always changing. It is also because GNU/Linux doesn't have that much usage still but that will probably change soon, maybe even sooner that we think.
 
 # 4. Package managers
 
-In GNU/Linux it's much easier to find and install software than `windows`. In windows you need to go to web, then search for software and then find the real link to download the software without the virus. `Good luck with that`.
+In GNU/Linux it's much easier to find and install software than `windows`. In windows you need to go to web, then search for software and then find the real link to download without a virus. `Good luck with that`.
 
-While in GNU/Linux you open your terminal and give it the command to install the software. Of course for those that don't know or wan't to use the terminal there is always GUI software stores like gnome store or pamac.
+While in GNU/Linux you open your terminal and give it the command to install the software. Of course for those that don't know or want to use the terminal there is always GUI software stores like gnome store or pamac.
 
 # 5. Software
 
@@ -40,11 +40,11 @@ Also if you have experience in programming you can fork the program, then add or
 
 # 6. Ease of use
 
-GNU/Linux is much more easir to use than `windows`. At the very least that is my opinion and to tell those that maybe think that it is because I didn't use windows a lot.I used windows for more than 10 year's si it isn't that i wasn't acustommed to the windows wolrd but linux suits me much more.
+GNU/Linux is much more easier to use than `windows`. At the very least that is my opinion and to tell those that maybe think that it is because I didn't use windows a lot.I used windows for more than 10 year's so it isn't that I wasn't accustomed to the windows world but linux suits me much more.
 
 # 7. Customization
 
-You can customize your GNU/Linux desktop to be exactly what you wan't. Like that you can also boost your productivity and ease of use even more. Like what I did whit my setup and ended up with a [bspwm](https://github.com/baskerville/bspwm) setup that I heavily customized. Here you can see a look at my setup.
+You can customize your GNU/Linux desktop to be exactly what you want. Like that you can also boost your productivity and ease of use even more. Like what I did whit my setup and ended up with a [bspwm](https://github.com/baskerville/bspwm) setup that I heavily customized. Here you can see a look at my setup.
 
 {{< img-lazy  "row" "Desktop" "https://raw.githubusercontent.com/CroLinuxGamer/Photos/master/desktop.png" >}}
 
