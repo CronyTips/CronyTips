@@ -16,7 +16,7 @@ In this post I will write about a open-source manga reader named Tachiyomi.
 
 ---
 
-After closing of MangaRock I'm sure that a lot of manga readers had a hard time searching for a differnet manga reader. That is why I'm going to introduce you an open-source alternative that is much better than MangaRock named [Tachiyomi](https://tachiyomi.org/). Why do I say that Tachiyomi is better than MangaRock, well let me name a couple of reasons.
+After closing of MangaRock I'm sure that a lot of manga readers had a hard time searching for a different manga reader. That is why I'm going to introduce you an open-source alternative that is much better than MangaRock named [Tachiyomi](https://tachiyomi.org/). Why do I say that Tachiyomi is better than MangaRock, well let me name a couple of reasons.
 
 - Completely free
 
