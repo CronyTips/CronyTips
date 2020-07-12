@@ -1,6 +1,6 @@
 +++
 title = "Search"
-description = "Searchng engine"
+description = "Searching engine"
 +++
 
 You can change search page details above.
