@@ -5,3 +5,6 @@
 	path = public
 	url = https://github.com/CronyTips/cronytips.github.io.git
 	branch = master
+[submodule "themes/hugo-notice"]
+	path = themes/hugo-notice
+	url = https://github.com/martignoni/hugo-notice.git

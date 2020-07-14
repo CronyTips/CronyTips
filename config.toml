@@ -2,7 +2,7 @@ baseURL = "https://cronytips.github.io/"
 title = "Crony Tips"
 canonifyURLs = true
 
-theme = "fuji"
+theme = ["hugo-notice","fuji"]
 hasCJKLanguage = true
 enableEmoji = true
 enableRobotsTXT = true
