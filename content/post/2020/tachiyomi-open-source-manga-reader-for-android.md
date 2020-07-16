@@ -28,7 +28,7 @@ Tachiyomi is also open source which means that you can go and look at the code a
 
 - Great ui
 
-Tachiyomi looks great and is easy to get used to. It also has better reader than what you had in MangaRock and you can also set custom color options to make your manga be slithly green or something like, even lowering the brightness for midnight reading.
+Tachiyomi looks great and is easy to get used to. It also has better reader than what you had in MangaRock and you can also set custom color options to make your manga be slightly green or something like, even lowering the brightness for midnight reading.
 
 - A big amount of sources
 
@@ -74,7 +74,7 @@ Sixth extension is `MangaSee` because if I can't find manga on any other one Man
 
 {{< vimeo 436408083 >}}
 
-After installing extensions that I recommended you will have a lot of sources that you don't need. To disable them you need to go into sources and click at the icon in the top right (the one with 3 lines). The you just remove the blue tick from the uneeded sources. I left enabled: `Kissmanga.in`, `MangaDex`, `MangaLife`, `Mangakakalot`, `Mangasee`, `Toonily` and `Webtoons.com`.
+After installing extensions that I recommended you will have a lot of sources that you don't need. To disable them you need to go into sources and click at the icon in the top right (the one with 3 lines). The you just remove the blue tick from the unneeded sources. I left enabled: `Kissmanga.in`, `MangaDex`, `MangaLife`, `Mangakakalot`, `Mangasee`, `Toonily` and `Webtoons.com`.
 
 ### Adding and removing manga to library
 
@@ -92,7 +92,7 @@ To download a manga you need to choose any manga from your library view. Then yo
 
 ### Recommended settings to change
 
-Now I will list a cople of options that I think you need to change for the best experience for you.
+Now I will list a couple of options that I think you need to change for the best experience for you.
 
 1. Theme
 
@@ -116,7 +116,7 @@ It is also a good idea to go to advanced settings at least every month to clean 
 
 # Tracking
 
-In tachiyomi you can have third party tools track your progress and I personaly use AniList because It is a pretty good thing to have. You don't need to do AniList because Tachiyomi also supports MyAnimeList, Kitsu, Shikimori and Banguni. Every one of them has different setting up so I won't be doing that here.
+In tachiyomi you can have third party tools track your progress and I personally use AniList because It is a pretty good thing to have. You don't need to do AniList because Tachiyomi also supports MyAnimeList, Kitsu, Shikimori and Banguni. Every one of them has different setting up so I won't be doing that here.
 
 # Backup's
 
