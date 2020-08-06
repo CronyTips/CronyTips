@@ -6,7 +6,7 @@ url: /2020/brave-best-web-browser/
 tags:
   - open-source
   - browser
-draft: true
+draft: false
 ---
 
 In this post I will be talking about my favorite web browser Brave.
