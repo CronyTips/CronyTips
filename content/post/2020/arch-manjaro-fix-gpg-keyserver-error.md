@@ -52,4 +52,4 @@ Pacman
 
 ---
 
-I hope that this was helpful to you and that you are now able to normally install your programs again.
+I hope that this was helpful to you and that you are now able to normally install your programs again. You can also write about any other methods to fix this problem in the comments.

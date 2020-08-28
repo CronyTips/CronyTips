@@ -38,3 +38,5 @@ OnlyOffice in my testing was 100% compatible with MS Office files. Sometimes I w
 ---
 
 All in all OnlyOffice is an amazing office suite with amazing MS Office compatibility that never let me down. I hope that you will give OnlyOffice a try.
+
+Write in the comments if you know about any other good ms office alternative.

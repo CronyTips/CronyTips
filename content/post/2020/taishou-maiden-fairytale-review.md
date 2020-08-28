@@ -28,3 +28,5 @@ But don't let it get the better of you because there aren't' only happy moments,
 Story is very deep and also good it kept me wanting to read more that I read the whole manga In half the day after all it only has 42 chapters. The ending was predictable but also it was in one hand unpredictable because it dint end exactly the way that I predicted. But the ending is the best one that could be for this great manga.
 
 All in all I give the manga 9/10 score because I wish that it was a bit longer but what can I do.
+
+Also tell me in the comments if you know of any manga that is similar to this, I would love to read them.

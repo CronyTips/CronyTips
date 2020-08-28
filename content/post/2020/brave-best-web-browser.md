@@ -34,3 +34,5 @@ Brave has a system called Brave Rewards which makes it so that you can give rewa
 ---
 
 Now you know what is the Browser that I use and reasons why I think that it is the best browser there is. Comment your picks for your favorite browser and your reasons for that.
+
+You can also write in comments about any other browser that you might recommend.

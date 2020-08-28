@@ -29,3 +29,5 @@ This more like a community than a website where otakus like Me and a lot of othe
 ---
 
 Now after everything is said and done I wish you good reading and have fun immersing in some Light Novels that maybe your haven't even heard of.
+
+Write in the comments about how you find and read your light novels.

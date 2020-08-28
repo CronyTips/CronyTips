@@ -36,4 +36,4 @@ You can edit Alacritty configuration with any kind of text editor and config fil
 You need to be careful with spaces in Alacritty configuration or you will be getting errors all the time like I did in the beginning
 {{< /notice >}}
 
-I hope that you found this all helpful and that you will try out Alacritty.
+I hope that you found this all helpful and that you will try out Alacritty. Also write about what terminal are you using because I would love to hear your recommendations.

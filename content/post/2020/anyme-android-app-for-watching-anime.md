@@ -58,3 +58,5 @@ You can also use a different video player for watching. I personally use MX play
 ---
 
 I hope how this was very helpful for most of you. I will be very happy if you where to use or at least try using Anyme for all your anime needs because it is more than you will ever need for an anime watching app especially on android.
+
+You can also comment about what program or website you are using for watching anime.

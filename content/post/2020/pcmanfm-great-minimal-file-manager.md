@@ -43,4 +43,4 @@ Solus
 
 ---
 
-I hope that this post helped you in search of a minimal and lightweight file manager.
+I hope that this post helped you in search of a minimal and lightweight file manager. Also tell me in the comments about any other good linux file manager.

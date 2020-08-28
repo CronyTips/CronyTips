@@ -51,3 +51,5 @@ You can customize your GNU/Linux desktop to be exactly what you want. Like that 
 ---
 
 All in all my opinion of GNU/Linux will probably never change because it is just what I need of a desktop OS. But still everyone has their opinion and that is hard to change.
+
+Also write in the comments your reasons for using or not using linux.

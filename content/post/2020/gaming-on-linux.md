@@ -36,3 +36,5 @@ Then again some time after Lutris managed to get Epic Games Launcher to run on L
 After everything that happen now days I'm able to run every game that I was able to run on Windows either with a small performance hit or with better performance. All I can say that even in after a time frame of only 4 years gaming on Linux has become so much better that I never think coming back to Windows because of games. Well I do almost only play singleplayer games so that is also one of the reasons that I never run into problems with gaming, but what can I do about it when I don't have any friends except for Linux. And still I mostly spend time either watching anime, manga or light novels like a true weeb
 
 Well then I hope that this blog was somewhat informative for all of you and that maybe you will hesitate a little less about coming to Linux because of games.
+
+You can also write in the comments what you think of the state of linux gaming.

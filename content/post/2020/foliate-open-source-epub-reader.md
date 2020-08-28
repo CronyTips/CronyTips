@@ -38,3 +38,5 @@ All in all Foliate is a great epub reader worth using and support. If you want t
 # Installation
 
 Foliate is in both flatpak and snap format, but it is also in the most distros repository's so it should be easy to install with your distros package manager.
+
+Write in the comments about your preffered method for reading epub books.
