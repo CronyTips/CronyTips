@@ -26,11 +26,11 @@ To do that you need to use either of the two next commands with your keyserver o
 
 Aur
 
-`gpg --keyserver ${KEYSERVER} --recv-keys ${KEY}`
+`gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys ${KEY}`
 
 Pacman
 
-`sudo pacman-key --keyserver ${KEYSERVER} pacman-key --lsign-key keyid ${KEY}`
+`sudo pacman-key --keyserver hkp://pool.sks-keyservers.net pacman-key --lsign-key keyid ${KEY}`
 
 You use the first command for Aur and second for updates in Pacman.
 
@@ -40,7 +40,7 @@ Change the default keyserver.
 
 You can change the default keyserver by changing the gpg and pacman keyserver default values. To do that you need to do this:
 
-Add `keyserver ${KEYSERVER}` with the keyserver of your choosing at the end of the next two files at this locations. Using text editor of your choice here I used nano as an example.
+Add `keyserver hkp://pool.sks-keyservers.net` which will use a keyserver that works 99% of time. Using text editor of your choice here I used nano as an example.
 
 Aur
 
@@ -48,7 +48,7 @@ Aur
 
 Pacman
 
-`sudo nano ~/.gnupg/gpg.conf`
+`nano ~/.gnupg/gpg.conf`
 
 ---
 
