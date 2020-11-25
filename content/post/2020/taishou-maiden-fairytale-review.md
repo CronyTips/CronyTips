@@ -13,7 +13,7 @@ In today's I will be doing a review of Taishou Maiden Fairytale.
 
 <!--more-->
 
-{{< img-lazy "row" "cover" "https://cdn.myanimelist.net/images/manga/2/173765.jpg" >}}
+![](https://cdn.myanimelist.net/images/manga/2/173765.jpg)
 
 ---
 

@@ -21,13 +21,13 @@ From the gists that I know before tools like [PlayOnLinux](https://www.playonlin
 
 > my Lutris library
 
-{{< img-lazy "row" "Lutris" "https://raw.githubusercontent.com/CroLinuxGamer/Photos/master/lutris.png" >}}
+![](https://raw.githubusercontent.com/CroLinuxGamer/Photos/master/lutris.png)
 
 Then about 1 or 2 years later Steam Play was announced and I saw Doom gameplay with Vulkan. I immediately tried to play my games but found it still laking. But I didn't want to give up so I tried installing some games with Lutris and they worked either with 5-15% lower performance or 5% better performance than on Windows 10. Yes  had better performance even though I had a budget laptop.
 
 > my epic games store library
 
-{{< img-lazy "row" "Epic Games" "https://raw.githubusercontent.com/CroLinuxGamer/Photos/master/epic-games.png" >}}
+![](https://raw.githubusercontent.com/CroLinuxGamer/Photos/master/epic-games.png)
 
 Then again some time after Lutris managed to get Epic Games Launcher to run on Linux where I had at that time almost over 100 games that I got from giveaways. But there was one problem, my integrated graphics card didn't have Vulkan support or so I thought but a couple months after I found out that my Radeon R2 gpu had experimental support on Linux for Vulkan and I spent a couple of days trying to enable it on my Manjaro installation when I found out that I only had to install `amdgpu-experimental` and then restart my system and that was it I had Vulkan support up and running.
 

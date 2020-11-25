@@ -15,7 +15,7 @@ In this post I will talk about how to unite gtk and qt themes.
 
 ---
 
-{{< img-lazy "row" "kid3-qt" "https://raw.githubusercontent.com/CroLinuxGamer/Photos/master/qt5ct.png" >}}
+![](https://raw.githubusercontent.com/CroLinuxGamer/Photos/master/qt5ct.png)
 
 > example of a qt program using qt5ct
 

@@ -25,7 +25,7 @@ A epub reader is very useful programs especially if you are like me and read lig
 - Support for realistic shadows ( looks like a real book )
 - And a lot more options
 
-{{< img-lazy "row" "foliate" "https://raw.githubusercontent.com/CroLinuxGamer/Photos/master/Foliate.png" >}}
+![](https://raw.githubusercontent.com/CroLinuxGamer/Photos/master/Foliate.png)
 
 > this is how my foliate looks like
 
