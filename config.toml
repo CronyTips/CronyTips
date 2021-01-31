@@ -120,7 +120,7 @@ googleAnalytics = "UA-171752567-1" # Set your Google Analytics UA here
 
   [[menu.link]]
   name = "GitHub"
-  url = "https://github.com/CronyAkatskuki"
+  url = "https://github.com/CronyAkatsuki"
     weight = 1
   [[menu.link]]
     name = "Instagram"
