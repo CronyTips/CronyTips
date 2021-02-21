@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 type: post
 date: {{ .Date }}
-url: /2020/{{ .Name }}/
+url: /2021/{{ .Name }}/
 tags:
   - Ubuntu
 draft: true
