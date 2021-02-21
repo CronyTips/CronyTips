@@ -46,7 +46,7 @@ GNU/Linux is much more easier to use than `windows`. At the very least that is m
 
 You can customize your GNU/Linux desktop to be exactly what you want. Like that you can also boost your productivity and ease of use even more. Like what I did whit my setup and ended up with a [bspwm](https://github.com/baskerville/bspwm) setup that I heavily customized. Here you can see a look at my setup.
 
-![](https://raw.githubusercontent.com/CroLinuxGamer/Photos/master/desktop.png)
+![](https://raw.githubusercontent.com/CronyAkatsuki/screenshots/main/desktop.png)
 
 ---
 

@@ -15,7 +15,7 @@ In this post I will be talking about a great minimal and lightweight file manage
 
 ---
 
-![](https://raw.githubusercontent.com/CroLinuxGamer/Photos/master/PCManFM.png)
+![](https://raw.githubusercontent.com/CronyAkatsuki/screenshots/main/PCManFM.png)
 
 We all know that a file manager is a essential part of user experience especially if you have an underpowered pc or laptop that doesn't isn't able to search 1000 files easily. Where that is PCManFM comes because it is made exactly with that in mind. PCManFM uses very small amount of ram and it is also very fast and responsive with great looks.
 

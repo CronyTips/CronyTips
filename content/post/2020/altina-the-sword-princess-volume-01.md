@@ -13,7 +13,7 @@ Today I will be talking about a light novel I read the first volume of recently.
 <!--more-->
 ---
 
-![](https://raw.githubusercontent.com/CroLinuxGamer/Photos/master/10141.jpeg)
+![](https://raw.githubusercontent.com/CronyAkatsuki/screenshots/main/10141.jpeg)
 
 I was bored and I started reading Altina the sword princess. I really like it but there is one thing I had the whole time while reading it, can you guess what?. It was deja-vu, why you ask yourself? Because I read the manga about half a year ago. And I found it much better than the manga. Now lets talk what is good about it and is it worth to recommend it to you guys!
 

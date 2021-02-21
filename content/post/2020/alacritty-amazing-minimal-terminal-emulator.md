@@ -17,7 +17,7 @@ In this post I will be talking about terminal emulator that I use named Alacritt
 
 > Sample Alacritty configuration
 
-![](https://raw.githubusercontent.com/CroLinuxGamer/Photos/master/terminal.png)
+![](https://raw.githubusercontent.com/CronyAkatsuki/screenshots/main/terminal.png)
 
 [Alacritty](https://github.com/alacritty/alacritty) is a minimal terminal emulator that has all the basic features that you need to have a comfortable experience. It also has gpu support which setts it apart among all other terminal emulators. According to the Alacritty github page `Alacritty is the fastest terminal emulator in existence. Using the GPU for rendering enables optimizations that simply aren't possible without it`. And in my case it is the truth.
 
