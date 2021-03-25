@@ -5,7 +5,9 @@ date = 2020-07-06T19:15:32+08:00
 noLicense = false
 +++
 
-Hi  everyone I'm Crony Akatsuki the creator of Crony Tips. You must be asking yourself what is the point of this blog.
+Hi  everyone I'm Crony Akatsuki the creator of Crony Tips. You must be asking yourself what is the point of this site.
+
+Also if anyone want's to contribute their content they can make a pull [request](https://github.com/CronyTips/CronyTips/pulls) in a form of a markdown failed and after reviewing it I will format it and then add you to the contributions list here and also give the people credits they deserve.
 
 The point of this site is that it is just a place where I can write about stuff that I like and make tips on how to do it so that somebody else who loves atleast something like me can maybe find help on my site.
 
