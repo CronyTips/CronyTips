@@ -19,7 +19,7 @@ In this post I will be talking about one of the best code editor for Linux, Visu
 
 > my c# example
 
-We all know that it is very hard to find a code editor, especially for linux because most of the popular IDE's support Windows only. That is why Microsoft comes into rescue with their open source code editor Visual Studio Code. It is a electron based code editor that is very extensable. 
+We all know that it is very hard to find a code editor, especially for linux because most of the popular IDE's support Windows only. That is why Microsoft comes into rescue with their open source code editor Visual Studio Code. It is a electron based code editor that is very expendable. 
 
 ### Some of its main features are:
 
@@ -34,7 +34,7 @@ Vscode also supports themes to make it dark or  bright, blue, green and a lot mo
 Pros:
 
 - open source
-- extensable
+- expendable
 - themes
 - great community
 
