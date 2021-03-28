@@ -15,6 +15,10 @@ In this post I will be writing about an android app called Anyme.
 
 ---
 
+{{< notice warning >}}
+Anyme has stopped providing streaming possibilities so you are not able to watch anime anymore using the app. You can still use it to manage your mal anime list without problems.
+{{< /notice >}}
+
 Anyme is an android app for watching anime from a lot of different sources while also being completely free. I have been using Anyme for almost 2 yeas and never thought of using any other app or program on my phone. Now if you are asking yourself why am I not using something like [Crunchyroll](https://www.crunchyroll.com/) or [Netflix](http://www.netflix.com/) its because a lot of anime isn't available for my country so I have to stream them and Anyme really helps me watch any anime I want. So why do I love Anyme so much, well here are a couple of reasons.
 
 ### Completely free
