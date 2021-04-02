@@ -19,7 +19,7 @@ So what you will find on my site.
 
 - [anime](#anime)
 - [manga](#manga)
-- [light-novels](#lightnovels)
+- [light-novels](#light-novels)
 - [games](#games)
 - [linux](#linux)
 
