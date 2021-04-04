@@ -135,14 +135,18 @@ googleAnalytics = "UA-171752567-1" # Set your Google Analytics UA here
     url = "https://www.reddit.com/user/CronyAkatskuki"
     weight = 3
   [[menu.link]]
-    name = "twitter"
-    url = "https://twitter.com/CronyAkatsuki"
-    weight = 4
-  [[menu.link]]
     name = "Anime list"
     url = "https://myanimelist.net/animelist/CronyAkatsuki"
-    weight = 5
+    weight = 4
   [[menu.link]]
     name = "Manga list"
     url = "https://anilist.co/user/CronyAkatsuki/mangalist"
+    weight = 5
+  [[menu.link]]
+    name = "Youtube"
+    url = "https://www.youtube.com/channel/UClFdlNlUipHG5Kit8GbFz5Q"
     weight = 6
+  [[menu.link]]
+    name = "Odysee"
+    url = "https://odysee.com/@CroLinuxGamer"
+    weight = 7
