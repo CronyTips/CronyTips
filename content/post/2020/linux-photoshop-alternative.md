@@ -2,7 +2,7 @@
 title: "Linux Photoshop Alternatives"
 type: post
 date: 2021-01-04T18:19:37+01:00
-url: /2020/linux-photoshop-alternatives/
+url: /2021/linux-photoshop-alternatives/
 tags:
   - linux
   - open-source
