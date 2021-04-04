@@ -1,6 +1,6 @@
 +++
 title = "About Crony Akatsuki"
-description = "A blog from a very special lunaic."
+description = "A blog from a very special lunatic."
 date = 2020-07-06T19:15:32+08:00
 noLicense = false
 +++

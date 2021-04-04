@@ -117,6 +117,10 @@ googleAnalytics = "UA-171752567-1" # Set your Google Analytics UA here
     name = "Search"
     url = "/search/"
     weight = 4
+  [[menu.nav]]
+    name = "Support"
+    url = "/support/"
+    weight = 5
 
   [[menu.link]]
   name = "GitHub"
