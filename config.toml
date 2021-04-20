@@ -43,7 +43,7 @@ googleAnalytics = "UA-171752567-1" # Set your Google Analytics UA here
 
   # Google AdSense
   # The AdSense code will be inserted between the head tags of your site.
-  googleAdsense = "ca-pub-9546162568577568"
+  # googleAdsense = "ca-pub-9546162568577568"
 
   # Word counter and read time indicator in post metadata
   showWordCounter = true
