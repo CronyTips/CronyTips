@@ -3,6 +3,7 @@ title: "The Daily Life of the Immortal King: Anime Review"
 type: post
 date: 2021-04-13T19:41:00+02:00
 url: /2021/the-daily-life-of-the-immortal-king-anime-review/
+image: "https://i.imgur.com/H8RLN2Y.png"
 tags:
   - anime
 draft: false

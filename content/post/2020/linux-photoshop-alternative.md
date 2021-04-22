@@ -3,6 +3,7 @@ title: "Linux Photoshop Alternatives"
 type: post
 date: 2021-01-04T18:19:37+01:00
 url: /2021/linux-photoshop-alternatives/
+image: "https://www.gimp.org/release-notes/images/2.10-update-ui.jpg"
 tags:
   - linux
   - open-source

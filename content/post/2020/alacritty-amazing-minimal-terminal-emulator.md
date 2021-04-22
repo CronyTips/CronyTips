@@ -3,6 +3,7 @@ title: "Alacritty: Amazing Minimal Terminal Emulator"
 type: post
 date: 2020-07-14T10:04:13+02:00
 url: /2020/alacritty-amazing-minimal-terminal-emulator/
+image: "https://raw.githubusercontent.com/CronyAkatsuki/screenshots/main/terminal.png"
 tags:
   - linux
   - open-source

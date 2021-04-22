@@ -3,6 +3,7 @@ title: "PCManFM: Great Minimal File Manager"
 type: post
 date: 2020-08-06T12:21:35+02:00
 url: /2020/pcmanfm-great-minimal-file-manager/
+image: "https://raw.githubusercontent.com/CronyAkatsuki/screenshots/main/PCManFM.png"
 tags:
   - linux
   - open-source

@@ -3,6 +3,7 @@ title: "MangoHud: Linux Gaming Overlay"
 type: post
 date: 2021-03-25T17:15:13+01:00
 url: /2021/mangohud-linux-gaming-overlay/
+image: "https://github.com/flightlessmango/MangoHud/blob/master/assets/overlay_example.gif?raw=true"
 tags:
   - open-source
   - linux

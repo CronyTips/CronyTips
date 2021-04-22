@@ -3,6 +3,7 @@ title: "Unite Gtk and Qt"
 type: post
 date: 2020-09-08T15:17:26+02:00
 url: /2020/unite-gtk-and-qt/
+image: "https://raw.githubusercontent.com/CronyAkatsuki/screenshots/main/qt5ct.png"
 tags:
   - linux
   - open-source

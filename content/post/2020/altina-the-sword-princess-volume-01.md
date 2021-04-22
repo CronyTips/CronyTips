@@ -3,6 +3,7 @@ title: "Altina the Sword Princess Volume 01"
 type: post
 date: 2020-12-05T18:00:15+01:00
 url: /2020/altina-the-sword-princess-volume-01/
+image: "https://raw.githubusercontent.com/CronyAkatsuki/screenshots/main/10141.jpeg"
 tags:
   - light novels
 draft: false

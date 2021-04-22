@@ -3,6 +3,7 @@ title: "F Droid: Open Source Application Store"
 type: post
 date: 2021-04-13T13:06:49+02:00
 url: /2021/f-droid-open-source-application-store/
+image: "https://raw.githubusercontent.com/CronyTips/Photos/master/f-droid.png"
 tags:
   - open-source
   - android

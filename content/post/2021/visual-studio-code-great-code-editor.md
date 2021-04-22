@@ -3,6 +3,7 @@ title: "Visual Studio Code: Great Code Editor"
 type: post
 date: 2021-02-21T09:18:02+01:00
 url: /2021/visual-studio-code-great-code-editor/
+image: "https://raw.githubusercontent.com/CronyAkatsuki/screenshots/main/vscode.png"
 tags:
   - open-source
   - programming

@@ -3,6 +3,7 @@ title: "Mailspring Best Linux Mail Client"
 type: post
 date: 2021-04-19T14:44:05+02:00
 url: /2021/mailspring-best-linux-mail-client/
+image: "https://getmailspring.com/static/img/hero_graphic_linux@2x.png"
 tags:
   - linux
   - open-source

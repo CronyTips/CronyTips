@@ -3,6 +3,7 @@ title: "Scrcpy: Open Source Screen Mirroring Tool"
 type: post
 date: 2021-04-06T11:27:32+02:00
 url: /2021/scrcpy-open-source-screen-mirroring-tool/
+image: "https://github.com/Genymobile/scrcpy/raw/master/assets/screenshot-debian-600.jpg"
 tags:
   - open-source
   - android

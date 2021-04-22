@@ -3,6 +3,7 @@ title: "Beyond the Boundary: Anime Review"
 type: post
 date: 2021-04-15T17:40:26+02:00
 url: /2021/beyond-the-boundary-anime-review/
+image: "https://i.imgur.com/plH6n5k.png"
 tags:
   - anime
 draft: false

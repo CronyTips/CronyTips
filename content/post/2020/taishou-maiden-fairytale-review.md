@@ -3,7 +3,7 @@ title: "Taishou Maiden Fairytale Review"
 type: post
 date: 2020-07-15T18:32:37+02:00
 url: /2020/taishou-maiden-fairytale-review/
-image: https://cdn.myanimelist.net/images/manga/2/173765.jpg
+image: "https://cdn.myanimelist.net/images/manga/2/173765.jpg"
 tags:
   - manga
 draft: false

@@ -3,6 +3,7 @@ title: "OnlyOffice: MS Office Replacement"
 type: post
 date: 2020-07-31T13:55:16+02:00
 url: /2020/only-office-ms-office-replacement/
+image: "https://static-www.onlyoffice.com/v9.5.0/images/mainpage/may2018/editors/document-short.jpg"
 tags:
   - linux
   - open-source
