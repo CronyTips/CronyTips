@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta name="HandheldFriendly" content="True" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta name="generator" content="Hugo 0.83.1" />
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="https://cronytips.github.io/ie/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://cronytips.github.io/ie/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://cronytips.github.io/ie/favicon-16x16.png">
+<link rel="manifest" href="https://cronytips.github.io/ie/site.webmanifest">
+<link rel="mask-icon" href="https://cronytips.github.io/ie/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="https://cronytips.github.io/ie/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/ie/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+
+
+
+<title>Acer Aspire A715 41g Linux Experience - Crony Tips</title>
+
+
+<meta name="author" content="Crony Akatsuki" />
+
+
+<meta name="description" content="A certain lunatics blog about anime, manga, light novels, games and linux" />
+
+
+<meta name="keywords" content="linux, open-source" />
+
+
+<meta property="og:title" content="Acer Aspire A715 41g Linux Experience" />
+<meta name="twitter:title" content="Acer Aspire A715 41g Linux Experience" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://cronytips.github.io/2020/acer-aspire-a715-41g-linux-experience/" /><meta property="og:description" content="In this post I will talk about my experience with linux on Acer aspire 7 laptop." />
+<meta name="twitter:description" content="In this post I will talk about my experience with linux on Acer aspire 7 laptop." /><meta property="og:image" content="https://cronytips.github.io/img/og.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://cronytips.github.io/img/og.png" /><meta property="article:published_time" content="2020-10-20T08:19:50+02:00" /><meta property="article:modified_time" content="2020-10-20T08:19:50+02:00" />
+
+
+
+
+<link rel="stylesheet" href="https://cronytips.github.io/assets/css/fuji.min.css" />
+
+
+
+
+
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-171752567-1');
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171752567-1"></script>
+
+
+</head>
+
+<body data-theme="auto">
+    <script data-cfasync="false">
+  
+  var fujiThemeData = localStorage.getItem('fuji_data-theme');
+  
+  if (!fujiThemeData) {
+    localStorage.setItem('fuji_data-theme', 'auto');
+  } else {
+    
+    if (fujiThemeData !== 'auto') {
+      document.body.setAttribute('data-theme', fujiThemeData === 'dark' ? 'dark' : 'light');
+    }
+  }
+</script>
+    <header>
+    <div class="container-lg clearfix">
+        <div class="col-12 header">
+            <a class="title-main" href="https://cronytips.github.io/">Crony Tips</a>
+            
+            <span class="title-sub">Anime, manga, light-novel, games and linux lunatics blog</span>
+            
+        </div>
+    </div>
+</header>
+
+    <main>
+        <div class="container-lg clearfix">
+            
+            <div class="col-12 col-md-9 float-left content">
+                
+<article>
+    
+    <h2 class="post-item post-title">
+        <a href="https://cronytips.github.io/2020/acer-aspire-a715-41g-linux-experience/">Acer Aspire A715 41g Linux Experience</a>
+    </h2>
+    <div class="post-item post-meta">
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2020-10-20</span>
+
+<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;605 words</span>
+<span><i class="iconfont icon-time-sharp"></i>&nbsp;3 minutes</span>
+<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="https://cronytips.github.io/tags/linux">linux</a>&nbsp;<a href="https://cronytips.github.io/tags/open-source">open-source</a>&nbsp;</span>
+
+    </div>
+    
+    <div class="post-content markdown-body">
+        <p>In this post I will talk about my experience with linux on Acer aspire 7 laptop.</p>
+<hr>
+<p>So recently I bought a new laptop that costs about 950 American dollars. Well I bought it for 770 American dollars (Got a good deal). This laptop was pretty good and I needed it because of school (Literally) so I have been on a hunt for a deal like this for 2 months. And I managed to find this one and have been pretty happy with the machine.</p>
+<p>The specifications of this machine are: 8 GB ram, AMD Ryzen 5 3550H processor, Nvidia GTX 1650 graphics card and 512 GB SSD and a 1080p IPS display. Pretty good for the money I paid for it. First thing I did was install windows 10 so that I can install all the software that I need for school (And also a cople of games that dont work on linux). Since it had a integrated Vega 8 gpu it had Nvidia containers in windows 10 which enable me to use the dedicated 1650. The performance was good even thought I installed windows 10 on in so after a couple of days I decided to install linux on a different partition.</p>
+<h3 id="1-artix-linux">1. Artix linux</h3>
+<p>The first distro that I tried to install was a distro I used on my old machine. I took the base install (cli install like the arch linux) and installed the basic packages and everything else in less than 20 minutes. Then I easily pulled my dotfiles from github and placed them at their place and started installing my package list (after removing some uneeded packages from it). After that I made zsh my default shell and rebooted into the bspwm. Everything worked as expected, except for the 1650 which I couldn&rsquo;t get to work normally no matter what. And after breaking my xserver a couple of times I searched on the web for a distro that could do that for me.</p>
+<h3 id="2-manjaro">2. Manjaro</h3>
+<p>Since I loved the pacman package manager and aur I tried Manjaro because it had prime drivers for AMD/Nvidia combinations. I got the architect ISO and then I installed the cli system and like with artix I pulled my dotfiles from github and installed my packages. After that I rebooted into bspwm to see that the 1650 was working with no &ldquo;problems&rdquo; with prime. That is when gaming came in and made me switch to another distro. Prime would sometimes on some games lock my xserver so I had to forcefully power off my laptop. And that is when I decided to go for a debian based distro that I heard had great configuration for this kind of laptops.</p>
+<h3 id="3-pop-os">3. Pop OS</h3>
+<p>My experience on Pop OS was so good that this post is written in it. With its system76-power program I can easily switch between integrated and dedicated (even hybrid) gpu setups. The batter works for about 8 hours when on integrated and when on dedicated for about 5 hours. I didn&rsquo;t try out the hybrid setting because I don&rsquo;t need it. The performance was better than in windows 10 but I still don&rsquo;t like the fact that I have over 1600 packages installed on the fresh install and the 700mb usage on boot (bspwm used 200-300mb with mpd on) nut all in all it&rsquo;s working with no problems. And I can play games all I want with no guilt.</p>
+<hr>
+<p>That is it for todays post and I hope that you will find this post helpful in deciding whether to buy one of these or not going to. Write in the comments your experiences.</p>
+    </div>
+</article>
+
+
+
+<div class="post-comment" data-comment="disqus">
+    <span class="post-comment-notloaded">
+        <i class="iconfont icon-chatbox-ellipses-sharp"></i>&nbsp;Load comments
+    </span>
+    <div id="disqus_thread" style="display: none;"></div>
+    <script>
+        function loadComment() {
+            var commentArea = document.querySelector('.post-comment');
+            var disqus_config = function () {
+                this.page.url = 'https:\/\/cronytips.github.io\/2020\/acer-aspire-a715-41g-linux-experience\/';
+                this.page.identifier = 'acer-aspire-a715-41g-linux-experience';
+            };
+            var s = document.createElement('script');
+            s.src = 'https://' + 'crony-tips' + '.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            document.querySelector('#disqus_thread').removeAttribute('style');
+            (document.body || document.head).appendChild(s);
+            document.querySelector('span.post-comment-notloaded').setAttribute('style', 'display: none;');
+        }
+    </script>
+</div>
+
+
+            </div>
+            <aside class="col-12 col-md-3 float-left sidebar">
+    
+    <div class="sidebar-item sidebar-pages">
+        <h3>Pages</h3>
+        <ul>
+            
+            <li>
+                <a href="https://cronytips.github.io/">Home</a>
+            </li>
+            
+            <li>
+                <a href="https://cronytips.github.io/archives/">Archives</a>
+            </li>
+            
+            <li>
+                <a href="https://cronytips.github.io/about/">About</a>
+            </li>
+            
+            <li>
+                <a href="https://cronytips.github.io/search/">Search</a>
+            </li>
+            
+            <li>
+                <a href="https://cronytips.github.io/support/">Support</a>
+            </li>
+            
+            <li>
+                <a href="https://cronytips.github.io/index.xml">RSS</a>
+            </li>
+            
+        </ul>
+    </div>
+    
+    <div class="sidebar-item sidebar-links">
+        <h3>Links</h3>
+        <ul>
+            
+            <li>
+                <a href="https://github.com/CronyAkatsuki" target="_blank"><span>GitHub</span></a>
+            </li>
+            
+            <li>
+                <a href="https://www.instagram.com/cro.otaku/" target="_blank"><span>Instagram</span></a>
+            </li>
+            
+            <li>
+                <a href="https://www.reddit.com/user/CronyAkatskuki" target="_blank"><span>reddit</span></a>
+            </li>
+            
+            <li>
+                <a href="https://myanimelist.net/animelist/CronyAkatsuki" target="_blank"><span>Anime list</span></a>
+            </li>
+            
+            <li>
+                <a href="https://anilist.co/user/CronyAkatsuki/mangalist" target="_blank"><span>Manga list</span></a>
+            </li>
+            
+            <li>
+                <a href="https://www.youtube.com/channel/UClFdlNlUipHG5Kit8GbFz5Q" target="_blank"><span>Youtube</span></a>
+            </li>
+            
+            <li>
+                <a href="https://odysee.com/@CroLinuxGamer" target="_blank"><span>Odysee</span></a>
+            </li>
+            
+        </ul>
+    </div>
+    
+    <div class="sidebar-item sidebar-tags">
+        <h3>Tags</h3>
+        <div>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/android/">android</a>
+            </span>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/anime/">anime</a>
+            </span>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/browser/">browser</a>
+            </span>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/games/">games</a>
+            </span>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/gaming/">gaming</a>
+            </span>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/light-novels/">light novels</a>
+            </span>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/linux/">linux</a>
+            </span>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/manga/">manga</a>
+            </span>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/open-source/">open-source</a>
+            </span>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/pop-os/">pop os</a>
+            </span>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/programming/">programming</a>
+            </span>
+            
+        </div>
+    </div>
+    
+</aside>
+        </div>
+        <div class="btn">
+    <div class="btn-menu" id="btn-menu">
+        <i class="iconfont icon-grid-sharp"></i>
+    </div>
+    <div class="btn-toggle-mode">
+        <i class="iconfont icon-contrast-sharp"></i>
+    </div>
+    <div class="btn-scroll-top">
+        <i class="iconfont icon-chevron-up-circle-sharp"></i>
+    </div>
+</div>
+<aside class="sidebar-mobile" style="display: none;">
+  <div class="sidebar-wrapper">
+    
+    <div class="sidebar-item sidebar-pages">
+        <h3>Pages</h3>
+        <ul>
+            
+            <li>
+                <a href="https://cronytips.github.io/">Home</a>
+            </li>
+            
+            <li>
+                <a href="https://cronytips.github.io/archives/">Archives</a>
+            </li>
+            
+            <li>
+                <a href="https://cronytips.github.io/about/">About</a>
+            </li>
+            
+            <li>
+                <a href="https://cronytips.github.io/search/">Search</a>
+            </li>
+            
+            <li>
+                <a href="https://cronytips.github.io/support/">Support</a>
+            </li>
+            
+            <li>
+                <a href="https://cronytips.github.io/index.xml">RSS</a>
+            </li>
+            
+        </ul>
+    </div>
+    
+    <div class="sidebar-item sidebar-links">
+        <h3>Links</h3>
+        <ul>
+            
+            <li>
+                <a href="https://github.com/CronyAkatsuki" target="_blank"><span>GitHub</span></a>
+            </li>
+            
+            <li>
+                <a href="https://www.instagram.com/cro.otaku/" target="_blank"><span>Instagram</span></a>
+            </li>
+            
+            <li>
+                <a href="https://www.reddit.com/user/CronyAkatskuki" target="_blank"><span>reddit</span></a>
+            </li>
+            
+            <li>
+                <a href="https://myanimelist.net/animelist/CronyAkatsuki" target="_blank"><span>Anime list</span></a>
+            </li>
+            
+            <li>
+                <a href="https://anilist.co/user/CronyAkatsuki/mangalist" target="_blank"><span>Manga list</span></a>
+            </li>
+            
+            <li>
+                <a href="https://www.youtube.com/channel/UClFdlNlUipHG5Kit8GbFz5Q" target="_blank"><span>Youtube</span></a>
+            </li>
+            
+            <li>
+                <a href="https://odysee.com/@CroLinuxGamer" target="_blank"><span>Odysee</span></a>
+            </li>
+            
+        </ul>
+    </div>
+    
+    <div class="sidebar-item sidebar-tags">
+        <h3>Tags</h3>
+        <div>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/android/">android</a>
+            </span>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/anime/">anime</a>
+            </span>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/browser/">browser</a>
+            </span>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/games/">games</a>
+            </span>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/gaming/">gaming</a>
+            </span>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/light-novels/">light novels</a>
+            </span>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/linux/">linux</a>
+            </span>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/manga/">manga</a>
+            </span>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/open-source/">open-source</a>
+            </span>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/pop-os/">pop os</a>
+            </span>
+            
+            <span>
+                <a href="https://cronytips.github.io/tags/programming/">programming</a>
+            </span>
+            
+        </div>
+    </div>
+    
+    
+    
+    
+  </div>
+</aside>
+    </main>
+
+    <footer>
+    <div class="container-lg clearfix">
+        <div class="col-12 footer">
+            
+            <span>&copy; 2020-2021
+                <a href="https://cronytips.github.io/">Crony Akatsuki</a>
+                
+                | Powered by <a href="https://github.com/dsrkafuu/hugo-theme-fuji/"
+                   target="_blank">Fuji-v2</a> &amp; <a href="https://gohugo.io/"
+                                                    target="_blank">Hugo</a> 
+            </span>
+        </div>
+    </div>
+</footer>
+
+    
+<script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.0/lazysizes.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/prismjs@1.23.0/components/prism-core.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/prismjs@1.23.0/plugins/autoloader/prism-autoloader.min.js"></script>
+
+
+
+<script defer src="https://cronytips.github.io/assets/js/fuji.min.js"></script>
+
+
+</body>
+
+</html>
