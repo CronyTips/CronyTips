@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>android on Crony Tips</title>
+    <link>https://cronytips.github.io/tags/android/</link>
+    <description>Recent content in android on Crony Tips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Apr 2021 13:06:49 +0200</lastBuildDate><atom:link href="https://cronytips.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>F Droid: Open Source Application Store</title>
+      <link>https://cronytips.github.io/2021/f-droid-open-source-application-store/</link>
+      <pubDate>Tue, 13 Apr 2021 13:06:49 +0200</pubDate>
+      
+      <guid>https://cronytips.github.io/2021/f-droid-open-source-application-store/</guid>
+      <description>&lt;p&gt;In this post I will be talking about a alternative android app store that only has open source apps.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Scrcpy: Open Source Screen Mirroring Tool</title>
+      <link>https://cronytips.github.io/2021/scrcpy-open-source-screen-mirroring-tool/</link>
+      <pubDate>Tue, 06 Apr 2021 11:27:32 +0200</pubDate>
+      
+      <guid>https://cronytips.github.io/2021/scrcpy-open-source-screen-mirroring-tool/</guid>
+      <description>&lt;p&gt;In this post I will be talking about a android screen mirroring tool called scrcpy&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Anyme: android app for watching anime</title>
+      <link>https://cronytips.github.io/2020/anyme-android-app-for-watching-anime/</link>
+      <pubDate>Thu, 09 Jul 2020 14:10:36 +0200</pubDate>
+      
+      <guid>https://cronytips.github.io/2020/anyme-android-app-for-watching-anime/</guid>
+      <description>&lt;p&gt;In this post I will be writing about an android app called Anyme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tachiyomi: open-source manga reader for android</title>
+      <link>https://cronytips.github.io/2020/tachiyomi-open-source-manga-reader-for-android/</link>
+      <pubDate>Wed, 08 Jul 2020 13:10:02 +0200</pubDate>
+      
+      <guid>https://cronytips.github.io/2020/tachiyomi-open-source-manga-reader-for-android/</guid>
+      <description>&lt;p&gt;In this post I will write about a open-source manga reader named Tachiyomi.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
