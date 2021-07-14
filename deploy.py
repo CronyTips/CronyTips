@@ -1,4 +1,5 @@
 import os, git, subprocess
+from time import sleep
 
 # print message
 print("\033[0;32mBuilding website with hugo...\033[0m\n")
@@ -26,6 +27,8 @@ os.chdir("..")
 
 repo = git.Repo(os.getcwd())
 
+
+sleep(1)
 # checking for new content and pushing it
 if repo.is_dirty(untracked_files=True):
     print("\033[0;32mPushing new content...\033[0m\n")
